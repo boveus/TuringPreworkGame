@@ -47,18 +47,3 @@ if cheater == true then puts "But, you cheated. :(" end
 break
 end
 end
-
-
-
-
-
-
-
-
-
-
-#random number 1-100
-#if they guess wrong say no, if they guess right say yes
-#say if higher or lower
-#(c) or (c)heat shows random number
-# give a hint if they guess wrong 5 times
