@@ -3,6 +3,7 @@ number = rand(1..100)
 guess = nil
 cheat = false
 hints = 0
+
 class String
   def is_i?
     !!(self =~ /\A[-+]?[0-9]+\z/)
